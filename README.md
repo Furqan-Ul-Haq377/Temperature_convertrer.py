@@ -1,4 +1,4 @@
-This is Lab 8
+This is Lab 7
 Temperatue analyzer 
 This is the temperature converter program
 It takes input on celsius 
